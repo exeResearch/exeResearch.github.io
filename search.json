@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "The Model Scout",
+    "section": "",
+    "text": "Modelling behavior. Scouting opportunity. Leading with data.\nWelcome to my blog! Here I share weekly insights on sports analytics, leadership, and connected data projects. Each post explores practical applications of quantitative methods in sports and organizational contexts."
+  },
+  {
+    "objectID": "blog.html#recent-posts",
+    "href": "blog.html#recent-posts",
+    "title": "The Model Scout",
+    "section": "Recent Posts",
+    "text": "Recent Posts"
+  },
+  {
+    "objectID": "portfolio-leadership.html",
+    "href": "portfolio-leadership.html",
+    "title": "Building Analytics Excellence",
+    "section": "",
+    "text": "Open-source tools and frameworks developed to solve real-world analytics challenges:\n\n\n\nPAGfxns - The Predictive Analytics Group's functions (PAGfxns) package is focused on feature engineering package for enrollment predictive modeling. Transforms applicant data into temporal behavior derivatives used in prediction models. It is designed to be application-platform agnostic. Powering the enrollment predictions for 50,000+ applicants for the Fall 2026 incoming class. In-house application - approach transferable to similar use cases.\nGELI - The Geographical-Endpoint Landscape Index (GELI) package leverages the concept that entities with similar features should behave in the same manner. GELI identifies regions following and diverging from this principle. Developed to serve the demands of MSU's Office of Admissions, GELI now possess screening and search capabilities as it enters its second year of application. In-house application - approach transferable to similar use cases.\ntheHUB - The Haabefuld Utility Box (theHUB), is a comprehensive analytics toolkit for higher education institutions, featuring functions, scripts, and worked examples for student success analysis. Initially developed for Michigan State University, it is a collection of analysis tools composed of functions, scripts, electronic notebooks, and worked examples. theHUB was designed to share these tools with the MSU community to improve the analyses of student outcomes, student success, and survey responses.\n\n\n\n\n\nRaeveStoberi - The RaeveStoberi package is our in-house application for harvesting, extracting, and cleaning sports-related data. RaeveStoberi currently serves our need for constructing player, team, game, play-by-play, and league datasets for the NHL, WNBA, Unrivaled Basketball League, and various NCAA sports. In-house application - constantly expanding to support new sports projects.\n\n\n\n\n\nMSUthemes - The MSUthemes package provides colour palettes and themes for Michigan State University (MSU) and comprehensive colour support for all Big Ten Conference institutions. The package includes MSU-specific palettes (sequential, diverging, and qualitative) designed to align with MSU's branding guidelines, uses the Metropolis font (MSU's chosen font) in the construction of the plots, as well as the primary and secondary colour palettes for all 18 Big Ten institutions, making it ideal for multi-institutional comparisons and collaborative research visualizations using ggplot2.\n\n\n\n\n\n\nSports Analytics: [Brief project descriptions] \nHigher Education: Drawing on economics, analytics, and predictive modelling, PAG provides a unique perspective on student-centric quandaries. We actively develop deposit and cancellation likelihood models for the incoming class along with recommending recruiting communities for future incoming classes. Using rigorour, evidence-based methods we have developed sound deposit likelihood models that are able to identify ~80% of applicants who deposit in the preceeding January, four months before the deposit deadline."
+  },
+  {
+    "objectID": "portfolio-leadership.html#analytics-portfolio",
+    "href": "portfolio-leadership.html#analytics-portfolio",
+    "title": "Building Analytics Excellence",
+    "section": "",
+    "text": "Open-source tools and frameworks developed to solve real-world analytics challenges:\n\n\n\nPAGfxns - The Predictive Analytics Group's functions (PAGfxns) package is focused on feature engineering package for enrollment predictive modeling. Transforms applicant data into temporal behavior derivatives used in prediction models. It is designed to be application-platform agnostic. Powering the enrollment predictions for 50,000+ applicants for the Fall 2026 incoming class. In-house application - approach transferable to similar use cases.\nGELI - The Geographical-Endpoint Landscape Index (GELI) package leverages the concept that entities with similar features should behave in the same manner. GELI identifies regions following and diverging from this principle. Developed to serve the demands of MSU's Office of Admissions, GELI now possess screening and search capabilities as it enters its second year of application. In-house application - approach transferable to similar use cases.\ntheHUB - The Haabefuld Utility Box (theHUB), is a comprehensive analytics toolkit for higher education institutions, featuring functions, scripts, and worked examples for student success analysis. Initially developed for Michigan State University, it is a collection of analysis tools composed of functions, scripts, electronic notebooks, and worked examples. theHUB was designed to share these tools with the MSU community to improve the analyses of student outcomes, student success, and survey responses.\n\n\n\n\n\nRaeveStoberi - The RaeveStoberi package is our in-house application for harvesting, extracting, and cleaning sports-related data. RaeveStoberi currently serves our need for constructing player, team, game, play-by-play, and league datasets for the NHL, WNBA, Unrivaled Basketball League, and various NCAA sports. In-house application - constantly expanding to support new sports projects.\n\n\n\n\n\nMSUthemes - The MSUthemes package provides colour palettes and themes for Michigan State University (MSU) and comprehensive colour support for all Big Ten Conference institutions. The package includes MSU-specific palettes (sequential, diverging, and qualitative) designed to align with MSU's branding guidelines, uses the Metropolis font (MSU's chosen font) in the construction of the plots, as well as the primary and secondary colour palettes for all 18 Big Ten institutions, making it ideal for multi-institutional comparisons and collaborative research visualizations using ggplot2.\n\n\n\n\n\n\nSports Analytics: [Brief project descriptions] \nHigher Education: Drawing on economics, analytics, and predictive modelling, PAG provides a unique perspective on student-centric quandaries. We actively develop deposit and cancellation likelihood models for the incoming class along with recommending recruiting communities for future incoming classes. Using rigorour, evidence-based methods we have developed sound deposit likelihood models that are able to identify ~80% of applicants who deposit in the preceeding January, four months before the deposit deadline."
+  },
+  {
+    "objectID": "portfolio-leadership.html#leadership-frameworks",
+    "href": "portfolio-leadership.html#leadership-frameworks",
+    "title": "Building Analytics Excellence",
+    "section": "Leadership Frameworks",
+    "text": "Leadership Frameworks\n\nBuilding Data Teams\n\nGuidelines & Policies - Creating structure for analytics excellence\nProfessional Development - Growing analytics talent\nOnboarding - Setting new team members up for success\n\n\n\nInnovation & Collaboration\n\nForecast Fest - Making analytics engaging and accessible\nAI Office Hours & Tea - Fostering innovation through community\nMentorship Approach - Creating two-way growth relationships"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "exeResearch",
+    "section": "",
+    "text": "Expert in building data-driven cultures that make complex data actionable\nAbout | Portfolio & Leadership | Expertise | Insights | Connect"
+  },
+  {
+    "objectID": "index.html#transforming-data-into-strategic-advantage-for-sports-higher-education",
+    "href": "index.html#transforming-data-into-strategic-advantage-for-sports-higher-education",
+    "title": "exeResearch",
+    "section": "",
+    "text": "Expert in building data-driven cultures that make complex data actionable\nAbout | Portfolio & Leadership | Expertise | Insights | Connect"
+  },
+  {
+    "objectID": "index.html#from-complex-data-to-clear-direction",
+    "href": "index.html#from-complex-data-to-clear-direction",
+    "title": "exeResearch",
+    "section": "From Complex Data to Clear Direction",
+    "text": "From Complex Data to Clear Direction\nI believe that the intersection of analytics and leadership creates transformational opportunities in sports and higher education. With over 15 years of experience building analytics programs and leading data-driven initiatives, I help organizations see beyond the numbers to make confident, strategic decisions.\nMy approach combines rigorous statistical analysis with a deep understanding of organizational culture. Whether optimizing roster decisions for sports teams or predicting student success in higher education, I focus on building sustainable analytics capabilities that empower teams at every level.\nCurrently, I lead the Predictive Analytics Group at Michigan State University's Enrollment Services, where I've developed evidence-based methods that improved the Office of Admissions' ability to identify high-likelihood of enrollment communities for recruitment and identified in January approximately 80% of the admitted applicants who are likely to enroll. I also teach in MSU's Sports Analytics Graduate Certificate program, guiding the next generation of analytics leaders through real-world applications.\nI'm passionate about partnering with organizations ready to transform their approach to data—whether through strategic consulting engagements or by joining teams committed to building truly data-driven cultures.\n\nThe Journey\nMy path to analytics leadership began in scientific research, where I learned the rigor of data-driven discovery. Since founding exeResearch in 2008, I've applied these principles across industries, ultimately finding my calling at the intersection of sports, education, and analytics."
+  },
+  {
+    "objectID": "index.html#portfolio-leadership",
+    "href": "index.html#portfolio-leadership",
+    "title": "exeResearch",
+    "section": "Portfolio & Leadership",
+    "text": "Portfolio & Leadership\n[add text here describing the Portfolio & Leadership content along with a link to the page.]"
+  },
+  {
+    "objectID": "index.html#expertise",
+    "href": "index.html#expertise",
+    "title": "exeResearch",
+    "section": "Expertise",
+    "text": "Expertise\n\n\n\n\nAnalytics Strategy & Implementation\n\nDesign and deploy analytics frameworks that align with organizational goals\nTransform raw data into decision-ready insights for leadership teams\nProven track record of delivering actionable insights that drive strategic decisions\n\n\n– I’d love to share how we built analytics capabilities from the ground up\n\n\n\nData-Driven Culture Development\n\nBuild analytics capabilities across all organizational levels\nCreate sustainable processes for data-informed decision making\nExperienced in transforming skeptical stakeholders into analytics champions\n\n\n– Ask me about the time we turned skeptics into analytics believers\n\n\n\nSports Analytics Solutions\n\nRoster optimization and player evaluation systems\nPerformance prediction and strategic planning\nDeep expertise in translating complex metrics into coaching advantages\n\n\n– Ask me about bridging the gap between analytics insights and on-field/court application\n\n\n\nHigher Education Analytics\n\nEnrollment optimization and student success modeling\nInstitutional effectiveness measurement\nSkilled at balancing academic values with data-driven insights\n\n\n– Let’s discuss how analytics transformed our recruitment strategy"
+  },
+  {
+    "objectID": "index.html#the-model-scout",
+    "href": "index.html#the-model-scout",
+    "title": "exeResearch",
+    "section": "The Model Scout",
+    "text": "The Model Scout\nWhere modeling meets strategy. Where data drives decisions.\nStarting December 2025, join me for weekly explorations in sports analytics, enrollment modeling, and data leadership. Each post combines technical rigor with practical application - because the best insights are the ones that actually get implemented.\n\nSports Analytics Deep Dives - From player evaluation models to game strategy optimization\nHigher Ed Predictive Modeling - Enrollment forecasting, retention analysis, and institutional research\nBuilding Analytics Teams - Practical leadership insights for data-driven organizations\nTechnical Tutorials - R packages, statistical methods, and visualization techniques\n\nEach week, discover:\n\nReal-world case studies (anonymized but authentic)\nTechnical approaches that actually work\nLeadership strategies for data-driven cultures\nCode and methods you can implement immediately\n\nJoin the journey →"
+  },
+  {
+    "objectID": "index.html#connect",
+    "href": "index.html#connect",
+    "title": "exeResearch",
+    "section": "Connect",
+    "text": "Connect\nInterested in collaboration or have questions about my work?\n\nEmail: emilio@exeResearch.com\nGitHub: @emilioxavier\nLinkedIn: Emilio Xavier Esposito"
+  },
+  {
+    "objectID": "posts/shot-selection/index.html",
+    "href": "posts/shot-selection/index.html",
+    "title": "Analyzing Shot Selection in Basketball",
+    "section": "",
+    "text": "This post examines shot selection patterns in the NBA and their impact on offensive efficiency."
+  },
+  {
+    "objectID": "posts/shot-selection/index.html#introduction",
+    "href": "posts/shot-selection/index.html#introduction",
+    "title": "Analyzing Shot Selection in Basketball",
+    "section": "",
+    "text": "This post examines shot selection patterns in the NBA and their impact on offensive efficiency."
+  },
+  {
+    "objectID": "posts/shot-selection/index.html#data-and-methods",
+    "href": "posts/shot-selection/index.html#data-and-methods",
+    "title": "Analyzing Shot Selection in Basketball",
+    "section": "Data and Methods",
+    "text": "Data and Methods\n\nlibrary(tidyverse)\nlibrary(ggplot2)\n\n# Load your data\n# shots &lt;- read_csv(\"data/nba_shots.csv\")"
+  },
+  {
+    "objectID": "posts/shot-selection/index.html#analysis",
+    "href": "posts/shot-selection/index.html#analysis",
+    "title": "Analyzing Shot Selection in Basketball",
+    "section": "Analysis",
+    "text": "Analysis\nFor posts without R code, you can just write plain markdown and remove the code chunks entirely.\n\n# Your plotting code here\n# ggplot(shots, aes(x = distance, y = fg_pct)) +\n#   geom_point() +\n#   theme_minimal()"
+  },
+  {
+    "objectID": "posts/shot-selection/index.html#key-findings",
+    "href": "posts/shot-selection/index.html#key-findings",
+    "title": "Analyzing Shot Selection in Basketball",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nFinding 1: Teams that take more threes tend to have higher offensive ratings\nFinding 2: Mid-range shots show the lowest efficiency\nFinding 3: Shot selection varies significantly by team philosophy"
+  },
+  {
+    "objectID": "posts/shot-selection/index.html#conclusions",
+    "href": "posts/shot-selection/index.html#conclusions",
+    "title": "Analyzing Shot Selection in Basketball",
+    "section": "Conclusions",
+    "text": "Conclusions\nThis analysis demonstrates the importance of shot selection in modern basketball strategy."
+  },
+  {
+    "objectID": "posts/shot-selection/index.html#references",
+    "href": "posts/shot-selection/index.html#references",
+    "title": "Analyzing Shot Selection in Basketball",
+    "section": "References",
+    "text": "References\n\nLink to data sources\nRelated papers or articles"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "pl_onboarding.html",
+    "href": "pl_onboarding.html",
+    "title": "Onboarding",
+    "section": "",
+    "text": "← Back to Building Analytics Excellence"
+  },
+  {
+    "objectID": "pl_onboarding.html#building-high-performance-analytics-teams-a-proven-onboarding-framework",
+    "href": "pl_onboarding.html#building-high-performance-analytics-teams-a-proven-onboarding-framework",
+    "title": "Onboarding",
+    "section": "Building High-Performance Analytics Teams: A Proven Onboarding Framework",
+    "text": "Building High-Performance Analytics Teams: A Proven Onboarding Framework\nOne of my core leadership philosophies is that exceptional analytics outcomes begin with exceptional team foundations. This framework, which I’ve developed and refined through years of leading analytics teams, ensures new team members are positioned for success from day one.\n\nThe Strategic Value of Structured Onboarding\nIn analytics organizations – whether in sports, higher education, or other data-driven environments – the first 30 days often determine whether a talented analyst becomes a high-impact contributor or struggles to find their footing. This framework transforms onboarding from an administrative checklist into a strategic opportunity for building a culture.\n\n\nPre-Arrival Foundation (2 Weeks Before Start)\n\nCommunication & Expectation Setting\n\nStakeholder notifications across the analytics ecosystem\nHR coordination for seamless administrative integration\nTechnology access provisioning (systems, repositories, collaborative platforms)\n“How I Like to be Mentored” assessment to personalize support\nStrategic one-on-one scheduling with key team members\nOnboarding Partner selection and preparation\n\n\n\nCreating Connection Before Day One\n\nWelcome package curation (team swag, local gift cards, professional tools)\nEarly delivery to build excitement and belonging\n\n\n\n\nWeek One: Integration & Immersion\n\nDay One: First Impressions Matter\n\nStructured morning introductions\nTeam lunch to build informal connections\nTechnical onboarding (shared repositories, project access, documentation)\n\n\n\nDaily Touchpoints\n\nBrief check-ins to address questions in real-time\nGradual introduction to team workflows and standards\n\n\n\nWeek One Conclusion\n\nFormal Onboarding Partner introduction with clear expectations\nComprehensive week-end review to calibrate next steps\n\n\n\n\nSustained Support: Weeks 2-4\n\nBi-directional Feedback Loops\n\nRegular check-ins with both the new member and the Colleague Connector\nProactive identification of learning opportunities\nAdjustment of support based on individual needs\n\n\n\n30-Day Milestone\n\nComprehensive review addressing questions, concerns, and growth opportunities\nTransition planning from structured support to organic integration\n\n\n\n\nOutcomes This Framework Delivers\n\nFor Team Members:\n\nHigher job satisfaction and retention rates\nClearer understanding of success metrics\n\n\n\nFor Organizations:\n\nConsistent culture transmission\nReduced manager time investment after initial setup\nScalable approach for growing analytics teams\n\n\n\nFor Leaders:\n\nSystematic approach that frees time for strategic work\nClear documentation for delegation and succession planning\nDemonstration of investment in team development\n\n\n\n\nAdaptability Across Contexts\nThis framework’s strength lies in its flexibility. I’ve successfully adapted it for:\n\nRemote-first analytics teams\nHybrid university research groups\nFast-paced sports analytics environments\nCross-functional data science initiatives\n\nThe principles remain constant: intentional connection, systematic support, and clear communication create the foundation for analytics excellence."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Modelling behavior. Scouting opportunity. Leading with data."
+  },
+  {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n\nThis is a Quarto-based website for exeResearch, a sports analytics and data science consultancy founded by Emilio Xavier Esposito. The site showcases services in sports decision analytics, leadership & management consulting, data-driven enrollment strategies, and applied data science. The website includes a blog called “The Model Scout” with posts on sports analytics, leadership, and data projects.\n\n\n\n\n\nquarto preview\nThis starts a local development server with live reload.\n\n\n\nquarto render\nThis builds the static site to the _site/ directory.\n\n\n\nquarto render index.qmd\nquarto render posts/shot-selection/index.qmd\n\n\n\nquarto render --no-cache\n\n\n\n\n\n\n\n_quarto.yml: Main configuration file defining site metadata, navigation, and theme settings\n\nUses dual theme: flatly (light) and darkly (dark) with user color scheme preference\nNavbar configured with right-aligned links to blog, about, and social profiles\nPage layout set to full with table of contents disabled site-wide\n\nindex.qmd: Homepage featuring hero section and content sections for services, projects, about, team, and contact\n\nUses custom CSS classes (.hero-section, .content-section, .alt-bg, etc.)\nInternal navigation via anchor links to section IDs\n\nblog.qmd: Blog listing page using Quarto’s listing feature\n\nConfigured to display posts from posts/ directory\nSorted by date descending with RSS feed enabled\nShows: date, title, author, categories, description\n\nabout.qmd: About page using Jolla template with social links\n\n\n\n\n\nEach blog post lives in posts/&lt;post-name&gt;/index.qmd\nposts/_metadata.yml: Default settings for all blog posts\n\nfreeze: true - Computational output is frozen (cached) to avoid re-running code\ntitle-block-banner: true - Posts use banner-style title blocks\n\n\n\n\n\n\nstyles.css: Custom CSS for the entire site\n\nHero section with full-viewport background image and gradient overlay\nAlternating section backgrounds using .alt-bg class\nResponsive grid layouts (.project-grid, .service-areas)\nMobile breakpoint at 768px\n\n\n\n\n\nPosts can include R code chunks (or Python) that execute during rendering. The freeze feature in posts/_metadata.yml caches computational results to speed up subsequent builds. When code needs to re-execute, use quarto render --no-cache or delete specific freeze cache in .quarto/_freeze/.\n\n\n\nThe rendered site goes to _site/ by default. The commented line # output-dir: docs in _quarto.yml suggests GitHub Pages deployment was considered but is currently disabled.\n\n\n\n\n\n\nNew blog posts should be created in posts/&lt;post-slug&gt;/index.qmd with YAML frontmatter:\n---\ntitle: \"Post Title\"\nauthor: \"Author Name\"\ndate: \"YYYY-MM-DD\"\ncategories: [category1, category2]\ndescription: \"Brief description for listings\"\nimage: \"thumbnail.jpg\"  # optional\n---\n\n\n\nBased on existing posts: sports analytics, basketball, R, and related analytics topics.\n\n\n\n\n\n_quarto.yml - Site configuration and navigation\nindex.qmd - Homepage with all main sections\nblog.qmd - Blog listing page\nposts/_metadata.yml - Default post settings\nstyles.css - Custom styling"
+  },
+  {
+    "objectID": "CLAUDE.html#project-overview",
+    "href": "CLAUDE.html#project-overview",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This is a Quarto-based website for exeResearch, a sports analytics and data science consultancy founded by Emilio Xavier Esposito. The site showcases services in sports decision analytics, leadership & management consulting, data-driven enrollment strategies, and applied data science. The website includes a blog called “The Model Scout” with posts on sports analytics, leadership, and data projects."
+  },
+  {
+    "objectID": "CLAUDE.html#build-and-development-commands",
+    "href": "CLAUDE.html#build-and-development-commands",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "quarto preview\nThis starts a local development server with live reload.\n\n\n\nquarto render\nThis builds the static site to the _site/ directory.\n\n\n\nquarto render index.qmd\nquarto render posts/shot-selection/index.qmd\n\n\n\nquarto render --no-cache"
+  },
+  {
+    "objectID": "CLAUDE.html#architecture",
+    "href": "CLAUDE.html#architecture",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "_quarto.yml: Main configuration file defining site metadata, navigation, and theme settings\n\nUses dual theme: flatly (light) and darkly (dark) with user color scheme preference\nNavbar configured with right-aligned links to blog, about, and social profiles\nPage layout set to full with table of contents disabled site-wide\n\nindex.qmd: Homepage featuring hero section and content sections for services, projects, about, team, and contact\n\nUses custom CSS classes (.hero-section, .content-section, .alt-bg, etc.)\nInternal navigation via anchor links to section IDs\n\nblog.qmd: Blog listing page using Quarto’s listing feature\n\nConfigured to display posts from posts/ directory\nSorted by date descending with RSS feed enabled\nShows: date, title, author, categories, description\n\nabout.qmd: About page using Jolla template with social links\n\n\n\n\n\nEach blog post lives in posts/&lt;post-name&gt;/index.qmd\nposts/_metadata.yml: Default settings for all blog posts\n\nfreeze: true - Computational output is frozen (cached) to avoid re-running code\ntitle-block-banner: true - Posts use banner-style title blocks\n\n\n\n\n\n\nstyles.css: Custom CSS for the entire site\n\nHero section with full-viewport background image and gradient overlay\nAlternating section backgrounds using .alt-bg class\nResponsive grid layouts (.project-grid, .service-areas)\nMobile breakpoint at 768px\n\n\n\n\n\nPosts can include R code chunks (or Python) that execute during rendering. The freeze feature in posts/_metadata.yml caches computational results to speed up subsequent builds. When code needs to re-execute, use quarto render --no-cache or delete specific freeze cache in .quarto/_freeze/.\n\n\n\nThe rendered site goes to _site/ by default. The commented line # output-dir: docs in _quarto.yml suggests GitHub Pages deployment was considered but is currently disabled."
+  },
+  {
+    "objectID": "CLAUDE.html#content-guidelines",
+    "href": "CLAUDE.html#content-guidelines",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "New blog posts should be created in posts/&lt;post-slug&gt;/index.qmd with YAML frontmatter:\n---\ntitle: \"Post Title\"\nauthor: \"Author Name\"\ndate: \"YYYY-MM-DD\"\ncategories: [category1, category2]\ndescription: \"Brief description for listings\"\nimage: \"thumbnail.jpg\"  # optional\n---\n\n\n\nBased on existing posts: sports analytics, basketball, R, and related analytics topics."
+  },
+  {
+    "objectID": "CLAUDE.html#key-files-reference",
+    "href": "CLAUDE.html#key-files-reference",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "_quarto.yml - Site configuration and navigation\nindex.qmd - Homepage with all main sections\nblog.qmd - Blog listing page\nposts/_metadata.yml - Default post settings\nstyles.css - Custom styling"
+  }
+]

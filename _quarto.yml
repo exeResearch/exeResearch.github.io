@@ -1,0 +1,36 @@
+project:
+  type: website
+  # output-dir: docs
+
+website:
+  title: "exeResearch"
+  favicon: logo.png
+  twitter-card: true
+  open-graph: true
+  # site-url: https://example.com
+  navbar:
+    # left:
+      # - href: index.qmd
+        # text: Home
+    right:
+      - blog.qmd
+      - text: "Portfolio & Leadership"
+        href: portfolio-leadership.qmd
+      - about.qmd
+      # - about.qmd
+      - icon: github
+        href: https://github.com/emilioxavier
+      - icon: bluesky
+        href: https://bsky.app/profile/exesposito.bsky.social
+      - icon: linkedin
+        href: https://www.linkedin.com/in/emilioxavieresposito/
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    page-layout: full
+    respect-user-color-scheme: true

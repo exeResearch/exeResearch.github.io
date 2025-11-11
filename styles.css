@@ -1,19 +1,35 @@
-/* Hero Section with Background */
+/* ============================================
+   exeResearch Website Styles
+   Clean, minimal CSS - Let Quarto themes handle typography
+   ============================================ */
+
+/* Navbar Logo Sizing */
+.navbar-brand img {
+  height: auto;
+  max-height: 70px; /* Adjust this value to make logo bigger/smaller */
+}
+
+/* Hero Section with Background Image */
 .hero-section {
-  min-height: 100vh;
+  min-height: 60vh; /* 30% of viewport height - adjust as needed */
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-              url('images/hero-background.jpg');
+  background: /* linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), */
+              url('images/hero_radiator.jpg');
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background-attachment: fixed;
+  /* border-radius: 0; no rounding on hero */
+  border-radius: 0 0 16px 16px; /* top-left, top-right, bottom-right, bottom-left */
+  box-shadow: 0 2px 8px rgba(255,255,255,0.25); /* optional: subtle glow */
   color: white;
   text-align: center;
   margin-top: -50px; /* Compensate for navbar */
 }
 
+/* Hero Content Typography */
 .hero-content h1 {
   font-size: 4rem;
   font-weight: 700;
@@ -28,14 +44,11 @@
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
 }
 
+
 /* Navigation Links in Hero */
 .nav-link {
   color: white;
   text-decoration: none;
-  /* padding: 0.5rem 1rem; */
-  /* margin: 0 0.5rem; */
-  /* border: 2px solid white; */
-  /* border-radius: 4px; */
   transition: all 0.3s ease;
   display: inline-block;
 }
@@ -46,79 +59,215 @@
   text-decoration: none;
 }
 
-.nav-link.active:hover {
-  background-color: white;
-  color: #333;
-  text-decoration: none;
-}
-
 /* Content Sections */
 .content-section {
-  padding: 6rem 2rem;
+  padding: 2rem 2rem;  /* original: padding: 6rem 2rem; */
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 100 auto;
 }
 
 .section-title {
-  font-size: 2.5rem;
-  font-weight: 600;
   margin-bottom: 2rem;
   text-align: center;
-  color: #2c3e50;
 }
 
-/* Alternating Background Sections */
+/* Alternating Background for Visual Variety */
 .alt-bg {
-  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
-              url('images/section-background.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  /* background-color: #42afe6;  /* original: #909090 */
+  background: linear-gradient(rgba(57, 94, 181, 0.5), rgba(57, 94, 181, 0.5))
+}
+
+[data-bs-theme="dark"] .alt-bg {
+  background-color: #2d3748;
 }
 
 /* Section Dividers */
-hr {
+/* hr {
   border: none;
   height: 3px;
-  background: linear-gradient(to right, transparent, #3498db, transparent);
+  background: linear-gradient(to right, transparent, #42afe6, transparent);  /* original #3498db
   margin: 0;
+} */
+
+/* Short Hero Divider Images */
+.section-divider {
+  min-height: 30vh; /* 30% of viewport height - adjust as needed */
+  /* background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Parallax effect */
+  border-radius: 4px; /* or 10px, 12px */
+  position: relative;
+  overflow: hidden;
 }
 
-/* Research Areas Grid */
-service-areas {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
+/* Optional: Add overlay for better text readability */
+.section-divider::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+  z-index: 1;
 }
 
-service-areas h3 {
-  color: #3498db;
-  margin-bottom: 1rem;
+.section-divider-content {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
 
-/* Project Grid */
+/* Project/Expertise Grid Layout */
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 3rem;
   margin-top: 2rem;
+  text-align: left;
 }
 
-.project-grid h3 {
-  color: #2c3e50;
+/* Each project item is a grid cell */
+.project-item {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Images at the top of each grid item */
+.project-item img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+.project-item h3 {
   margin-bottom: 1rem;
-  border-bottom: 2px solid #3498db;
+  border-bottom: 10px solid #42afe6;  /* original: 2px solid #3498db */
   padding-bottom: 0.5rem;
 }
 
-/* Footer */
+.project-grid ul,
+.project-grid li,
+.project-grid p {
+  text-align: left;
+}
+
+.connect-links {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.connect-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.half-width-image {
+  width: 50%;
+  height: auto;
+}
+
+.rounded {
+  border-radius: 8px; /* or 10px, 12px */
+}
+
+.rounded-project {
+  border-radius: 16px; /* or 10px, 12px */
+}
+
+.shadowed {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* optional: subtle shadow */
+}
+
+.glow {
+  box-shadow: 0 2px 8px rgba(255,255,255,0.25); /* optional: subtle glow */
+}
+
+
+/* Unified Site Footer */
 .footer {
   text-align: center;
-  padding: 2rem;
+  padding: 1.5rem;
   background-color: #2c3e50;
   color: white;
   margin-top: 4rem;
+}
+
+/* Quarto's built-in page footer styling */
+.nav-footer {
+  background-color: #2c3e50 !important;
+  color: white;
+  padding: 1rem 1.25rem;
+  /* margin-top: 4rem; */
+}
+
+.nav-footer a {
+  color: #3498db;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.nav-footer a:hover {
+  color: #5dade2;
+  text-decoration: underline;
+}
+
+/* Social media icon styling */
+.nav-footer-right a {
+  display: inline-block;
+  margin: 0 0.5rem;
+  color: #ecf0f1;
+  transition: all 0.3s ease;
+}
+
+.nav-footer-right a:hover {
+  color: #3498db;
+  transform: translateY(-3px);
+  text-decoration: none;
+}
+
+.nav-footer-right svg {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+  transition: all 0.3s ease;
+}
+
+.nav-footer-right a:hover svg {
+  filter: drop-shadow(0 4px 8px rgba(52, 152, 219, 0.4));
+}
+
+
+/* Blog Post Styles */
+.float-right {
+  float: right;
+  margin: 0 0 1rem 1rem; /* bottom and left margins for spacing */
+  max-width: 40%; /* or 50%, adjust as needed */
+  height: auto;
+}
+
+.float-left {
+  float: left;
+  margin: 0 1rem 1rem 0; /* bottom and right margins */
+  max-width: 40%;
+  height: auto;
+}
+
+.quarto-post .card-img,
+.quarto-post .card-img-top,
+.listing-image img,
+.thumbnail-image {
+  border-radius: 8px !important;
 }
 
 /* Smooth Scrolling */
@@ -138,10 +287,20 @@ html {
 
   .content-section {
     padding: 4rem 1rem;
+
+  .float-right, .float-left {
+    float: none;
+    max-width: 100%;
+    margin: 1rem 0;
   }
 
-  .nav-link {
-    display: block;
-    margin: 0.5rem 0;
+  }
+
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-divider {
+    min-height: 20vh; /* Shorter on mobile */
   }
 }

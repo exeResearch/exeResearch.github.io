@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>exeResearch | Analytics for Sports - Higher Ed - Awesomeness</title>
+<link>https://exeResearch.com/blog.html</link>
+<atom:link href="https://exeResearch.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Tue, 11 Nov 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome To The Model Scout!</title>
+  <dc:creator>Emilio Xavier Esposito</dc:creator>
+  <link>https://exeResearch.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p><img src="https://exeResearch.com/posts/welcome/snowytree.webp" class="float-right rounded-project shadowed img-fluid"></p>
+<p>Welcome to the intersection of predictive analytics, culture and leadership, and sports and higher education. I’ve spent 25 years building analytics systems and teams across academia, corporate environments, and consulting: from enrollment prediction models at MSU to performance validation for sports organizations.</p>
+<p>Join me for regular explorations into the evaluation and implementation of the technical and practical application of predictive analytics and leadership insights for data-driven organizations. We know the best insights are the ones that actually get implemented, but what we learn from those that don’t are the most important lessons.</p>
+<p>That’s what this blog is about: sharing both successes and valuable failures from the field.</p>
+<p>Whether you’re navigating sports analytics, building enrollment models for higher education, or developing high-performing analytics teams, this blog offers frameworks that work across domains.</p>
+<p>I will draw from anonymized real-world case studies, discuss technical approaches that work, suggest novel leadership strategies, and maybe even share code and methods you can try on your data without wondering how the <a href="https://ggplot2.tidyverse.org/reference/mpg.html" target="_blank">mpg</a> or <a href="https://ggplot2.tidyverse.org/reference/diamonds.html" target="_blank">diamonds</a> datasets relate to your field.</p>
+<p>It’s a lot. But so am I. Check back in December. Or better yet, put my RSS feed in your blog reader of choice.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://exeResearch.com/posts/welcome/</guid>
+  <pubDate>Tue, 11 Nov 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://exeResearch.com/posts/welcome/snowytree_short.webp" medium="image" type="image/webp"/>
+</item>
+</channel>
+</rss>

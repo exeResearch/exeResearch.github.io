@@ -356,7 +356,7 @@ gtag('config', 'G-L2BRBH4006', { 'anonymize_ip': true});
 <h2 class="section-title anchored" data-anchor-id="from-complex-data-to-clear-direction">From Complex Data to Clear Direction</h2>
 <p>I believe that the intersection of analytics and leadership creates transformational opportunities in sports and higher education. With over 20 years of experience building analytics programs and leading data-driven initiatives, I help organizations see beyond the numbers to make confident, strategic decisions.</p>
 <p>My approach combines rigorous statistical analysis and machine learning with a deep understanding of organizational culture. Whether optimizing roster decisions for sports teams or predicting student success in higher education, I focus on building sustainable analytics capabilities that empower teams at every level.</p>
-<p>Currently, I lead the <a href="https://thehopefulbox.com/articles/web_only/PAG_About.html" target="_blank">Predictive Analytics Group</a> at <a href="https://www.msu.edu/" target="_blank">Michigan State University</a>‘s <a href="https://provost.msu.edu/about-the-office/academic-and-administrative-units/academic-services-and-enrollment" target="_blank">Enrollment Services</a>, where I’ve developed evidence-based methods that improved the Office of Admissions’ ability to identify high-likelihood of enrollment communities for recruitment and identified in January approximately 80% of the admitted applicants who are likely to enroll. I also teach in <a href="https://online.msu.edu/programs/sports-analytics-cert" target="_blank">MSU’s Sports Analytics Graduate Certificate</a> program, guiding the next generation of analytics leaders through real-world applications.</p>
+<p>Currently, I lead the <a href="https://thehopefulbox.com/articles/web_only/PAG_About.html">Predictive Analytics Group</a> at <a href="https://www.msu.edu/">Michigan State University</a>‘s <a href="https://provost.msu.edu/about-the-office/academic-and-administrative-units/academic-services-and-enrollment">Enrollment Services</a>, where I’ve developed evidence-based methods that improved the Office of Admissions’ ability to identify high-likelihood of enrollment communities for recruitment and identified in January approximately 80% of the admitted applicants who are likely to enroll. I also teach in <a href="https://online.msu.edu/programs/sports-analytics-cert">MSU’s Sports Analytics Graduate Certificate</a> program, guiding the next generation of analytics leaders through real-world applications.</p>
 <p>I’m passionate about partnering with organizations ready to transform their approach to data—whether through strategic consulting engagements or by joining teams committed to building truly data-driven cultures.</p>
 <section id="the-journey" class="level3">
 <h3 class="anchored" data-anchor-id="the-journey">The Journey</h3>
@@ -609,6 +609,11 @@ Sometimes, you need an outside perspective. We offer independent analyses of you
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

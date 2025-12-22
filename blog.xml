@@ -10,7 +10,115 @@
 <atom:link href="https://exeResearch.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Tue, 11 Nov 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>MSUthemes: Building Consistent Analytics Through Thoughtful Tooling</title>
+  <dc:creator>Emilio Xavier Esposito</dc:creator>
+  <link>https://exeResearch.com/posts/MSUthemes/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p><img src="https://exeResearch.com/posts/MSUthemes/Python_dashboard.png" class="float-right rounded-project shadowed img-fluid" style="width: 50%;"></p>
+<section id="why-these-packages-exist" class="level2">
+<h2 class="anchored" data-anchor-id="why-these-packages-exist">Why These Packages Exist</h2>
+<p>It’s always great to give back to a community. I especially appreciate it when someone provides a small thing that has a massive impact on my day-to-day workflow. Like an easy-to-use color palette for the institution I work at.</p>
+<p>We’ve all been there. Your colleague has moved on or is taking a much-needed break, but a previous analysis needs updating. You have the analysis code but not the code to make the plots. Because you are pressed for time, you update the plots to the best of your ability, but they look slightly different from the other plots in the document or presentation.</p>
+<p>MSUthemes – for <a href="https://github.com/emilioxavier/MSUthemes">R</a> and <a href="https://github.com/emilioxavier/MSUthemes-python">Python</a> – removes the need for people to create their own internal MSU colour palettes and reduces the barriers to updating colleagues’ analyses. Using these packages enables you to create plots with a consistent aesthetic and focus on the analysis.</p>
+<p>These moments of friction add up - not just in lost time, but in the subtle inconsistencies that make collaborative work look less professional than it should. That’s why I created the MSUthemes packages for R and Python: to provide consistent, professional colour palettes and themes for Michigan State University and comprehensive colour support for all Big Ten Conference institutions.</p>
+<p>The packages include MSU-specific palettes (sequential, diverging, and qualitative) aligned with MSU’s branding guidelines, use the Metropolis font in plot construction, and provide primary and secondary colour palettes for all 18 Big Ten institutions - making them ideal for multi-institutional comparisons and collaborative research visualizations.</p>
+<p>The idea was sparked by the work of <a href="https://andjar.github.io/">Andreas Krause</a>, <a href="https://nrennie.rbind.io/">Nicola Rennie</a>, and <a href="https://github.com/RSS-Visuals">Brian Tarran</a>. While the original <a href="https://github.com/nrennie/RSSthemes">RSSthemes</a> package focused on <a href="https://rss.org.uk/">Royal Statistical Society (RSS)</a> branding, the MSUthemes packages adapt the concepts to fit MSU’s visual identity using the RSSthemes framework.</p>
+</section>
+<section id="the-msu-colour-palette" class="level2">
+<h2 class="anchored" data-anchor-id="the-msu-colour-palette">The MSU Colour Palette</h2>
+<p>Michigan State’s primary colors—Spartan Green and white—provide a strong foundation for data visualization. Creating a consistent color palette that works across both R and Python ensures your visualizations maintain brand identity while remaining accessible and informative.</p>
+<section id="r-implementation" class="level3">
+<h3 class="anchored" data-anchor-id="r-implementation">R Implementation</h3>
+<p>Here’s how the MSU colour palette appears in R:</p>
+<div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<figure class="figure">
+<p><img src="https://exeResearch.com/posts/MSUthemes/R-base_qualitative-palette.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<figcaption>MSU Qualitative Color Palette in R</figcaption>
+</figure>
+</div>
+<p>The palette includes not just the primary green, but complementary colours that work well for categorical and continuous data while maintaining accessibility standards.</p>
+</section>
+<section id="ggplot2-integration" class="level3">
+<h3 class="anchored" data-anchor-id="ggplot2-integration">ggplot2 Integration</h3>
+<p>For those working with ggplot2 (as most R users do), integrating custom themes streamlines the visualization process:</p>
+<p><img src="https://exeResearch.com/posts/MSUthemes/R-ggplot2_BigTen-example.png" class="rounded-project shadowed img-fluid" style="width: 75%; display: block; margin-left: auto; margin-right: auto;"></p>
+<div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<figure class="figure">
+<p><img src="https://exeResearch.com/posts/MSUthemes/R-ggplot2_BigTen-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<figcaption>Big Ten comparison: default ggplot2 styling (top) vs MSUthemes styling (bottom)</figcaption>
+</figure>
+</div>
+<p>This approach allows you to create consistent, professional visualizations with minimal code repetition.</p>
+</section>
+</section>
+<section id="python-implementation" class="level2">
+<h2 class="anchored" data-anchor-id="python-implementation">Python Implementation</h2>
+<p>Translating these themes to Python ensures consistency when projects span multiple languages or when collaborating with teams using different tools.</p>
+<section id="grouped-comparisons" class="level3">
+<h3 class="anchored" data-anchor-id="grouped-comparisons">Grouped Comparisons</h3>
+<div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<figure class="figure">
+<p><img src="https://exeResearch.com/posts/MSUthemes/Python_grouped-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<figcaption>Python Grouped Comparison</figcaption>
+</figure>
+</div>
+<p>Python’s matplotlib and seaborn libraries provide flexible theming options that can replicate the R implementations while leveraging Python’s strengths in data manipulation and integration with other systems.</p>
+</section>
+<section id="big-ten-comparisons" class="level3">
+<h3 class="anchored" data-anchor-id="big-ten-comparisons">Big Ten Comparisons</h3>
+<p>When presenting Michigan State data in context—such as comparing tuition across Big Ten schools—consistent theming helps stakeholders focus on insights rather than being distracted by inconsistent visual styles:</p>
+<div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<figure class="figure">
+<p><img src="https://exeResearch.com/posts/MSUthemes/Python_BigTen-tuition-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<figcaption>Big Ten Tuition Comparison</figcaption>
+</figure>
+</div>
+</section>
+<section id="dashboard-integration" class="level3">
+<h3 class="anchored" data-anchor-id="dashboard-integration">Dashboard Integration</h3>
+<p>Modern analytics often requires dashboards that combine multiple visualizations. Maintaining theme consistency across panels creates a cohesive analytical narrative:</p>
+<div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<figure class="figure">
+<p><img src="https://exeResearch.com/posts/MSUthemes/Python_dashboard.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<figcaption>Python Dashboard Example</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaways">Key Takeaways</h2>
+<p><strong>Consistency Matters</strong>: Stakeholders develop visual literacy with your analytics over time. Consistent theming reduces cognitive load and allows them to focus on insights rather than adapting to new visual styles.</p>
+<p><strong>Cross-Platform Planning</strong>: If your organization uses multiple programming languages, invest in creating equivalent themes across platforms early. The upfront effort pays dividends in reduced friction during collaboration and handoffs.</p>
+<p><strong>Brand Alignment</strong>: Institutional branding isn’t just for PowerPoint—it extends to all analytical outputs and builds credibility with stakeholders who recognize attention to professional presentation standards.</p>
+<p><strong>Accessibility</strong>: When developing custom colour palettes, test for colorblind accessibility. Tools like <a href="https://colorbrewer2.org/">ColorBrewer</a> can help ensure your visualizations are readable for all audiences.</p>
+</section>
+<section id="whats-next" class="level2">
+<h2 class="anchored" data-anchor-id="whats-next">What’s Next?</h2>
+<p>Have you developed custom themes for your institution or organization? What challenges did you encounter in maintaining consistency across tools and team members? I’d love to hear about your experiences - and I’ll be sharing more thoughts on building effective analytics cultures in upcoming posts.</p>
+<hr>
+<p><em>The MSUthemes packages are available for both <a href="https://github.com/emilioxavier/MSUthemes">R</a> and <a href="https://github.com/emilioxavier/MSUthemes-python">Python</a>. The visualizations shown here were developed during my work in the Office of the Vice Provost for Enrollment and Academic Strategic Planning at Michigan State University, demonstrating real-world applications of consistent theming across analytical workflows.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>R</category>
+  <category>Python</category>
+  <category>data visualization</category>
+  <category>higher education</category>
+  <category>analytics leadership</category>
+  <guid>https://exeResearch.com/posts/MSUthemes/</guid>
+  <pubDate>Mon, 22 Dec 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://exeResearch.com/posts/MSUthemes/Python_dashboard.png" medium="image" type="image/png" height="118" width="144"/>
+</item>
 <item>
   <title>Welcome To The Model Scout!</title>
   <dc:creator>Emilio Xavier Esposito</dc:creator>

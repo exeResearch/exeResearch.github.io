@@ -104,7 +104,7 @@
 <h2 class="anchored" data-anchor-id="whats-next">What’s Next?</h2>
 <p>Have you developed custom themes for your institution or organization? What challenges did you encounter in maintaining consistency across tools and team members? I’d love to hear about your experiences - and I’ll be sharing more thoughts on building effective analytics cultures in upcoming posts.</p>
 <hr>
-<p><em>The MSUthemes packages are available for both <a href="https://github.com/emilioxavier/MSUthemes">R</a> and <a href="https://github.com/emilioxavier/MSUthemes-python">Python</a>. The visualizations shown here were developed during my work in the Office of the Vice Provost for Enrollment and Academic Strategic Planning at Michigan State University, demonstrating real-world applications of consistent theming across analytical workflows.</em></p>
+<p><em>The MSUthemes packages are available for both <a href="https://emilioxavier.github.io/MSUthemes">R</a> and <a href="https://emilioxavier.github.io/msuthemes-py">Python</a>. The visualizations shown here were developed during my work in the Office of the Vice Provost for Enrollment and Academic Strategic Planning at Michigan State University, demonstrating real-world applications of consistent theming across analytical workflows.</em></p>
 
 
 </section>

@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>exeResearch | Analytics for Sports - Higher Ed - Awesomeness</title>
-<link>https://exeResearch.com/blog.html</link>
-<atom:link href="https://exeResearch.com/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://exeresearch.com/blog.html</link>
+<atom:link href="https://exeresearch.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.24</generator>
+<generator>quarto-1.8.27</generator>
 <lastBuildDate>Mon, 22 Dec 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>MSUthemes: Building Consistent Analytics Through Thoughtful Tooling</title>
   <dc:creator>Emilio Xavier Esposito</dc:creator>
-  <link>https://exeResearch.com/posts/MSUthemes/</link>
+  <link>https://exeresearch.com/posts/MSUthemes/</link>
   <description><![CDATA[ 
 
 
@@ -22,7 +22,7 @@
 
 
 
-<p><img src="https://exeResearch.com/posts/MSUthemes/Python_dashboard.png" class="float-right rounded-project shadowed img-fluid" style="width: 50%;"></p>
+<p><img src="https://exeresearch.com/posts/MSUthemes/Python_dashboard.png" class="float-right rounded-project shadowed img-fluid" style="width: 50%;"></p>
 <section id="why-these-packages-exist" class="level2">
 <h2 class="anchored" data-anchor-id="why-these-packages-exist">Why These Packages Exist</h2>
 <p>It’s always great to give back to a community. I especially appreciate it when someone provides a small thing that has a massive impact on my day-to-day workflow. Like an easy-to-use color palette for the institution I work at.</p>
@@ -40,7 +40,7 @@
 <p>Here’s how the MSU colour palette appears in R:</p>
 <div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 <figure class="figure">
-<p><img src="https://exeResearch.com/posts/MSUthemes/R-base_qualitative-palette.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<p><img src="https://exeresearch.com/posts/MSUthemes/R-base_qualitative-palette.png" class="rounded-project shadowed img-fluid figure-img"></p>
 <figcaption>MSU Qualitative Color Palette in R</figcaption>
 </figure>
 </div>
@@ -49,10 +49,10 @@
 <section id="ggplot2-integration" class="level3">
 <h3 class="anchored" data-anchor-id="ggplot2-integration">ggplot2 Integration</h3>
 <p>For those working with ggplot2 (as most R users do), integrating custom themes streamlines the visualization process:</p>
-<p><img src="https://exeResearch.com/posts/MSUthemes/R-ggplot2_BigTen-example.png" class="rounded-project shadowed img-fluid" style="width: 75%; display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="https://exeresearch.com/posts/MSUthemes/R-ggplot2_BigTen-example.png" class="rounded-project shadowed img-fluid" style="width: 75%; display: block; margin-left: auto; margin-right: auto;"></p>
 <div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 <figure class="figure">
-<p><img src="https://exeResearch.com/posts/MSUthemes/R-ggplot2_BigTen-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<p><img src="https://exeresearch.com/posts/MSUthemes/R-ggplot2_BigTen-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
 <figcaption>Big Ten comparison: default ggplot2 styling (top) vs MSUthemes styling (bottom)</figcaption>
 </figure>
 </div>
@@ -66,7 +66,7 @@
 <h3 class="anchored" data-anchor-id="grouped-comparisons">Grouped Comparisons</h3>
 <div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 <figure class="figure">
-<p><img src="https://exeResearch.com/posts/MSUthemes/Python_grouped-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<p><img src="https://exeresearch.com/posts/MSUthemes/Python_grouped-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
 <figcaption>Python Grouped Comparison</figcaption>
 </figure>
 </div>
@@ -77,7 +77,7 @@
 <p>When presenting Michigan State data in context—such as comparing tuition across Big Ten schools—consistent theming helps stakeholders focus on insights rather than being distracted by inconsistent visual styles:</p>
 <div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 <figure class="figure">
-<p><img src="https://exeResearch.com/posts/MSUthemes/Python_BigTen-tuition-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<p><img src="https://exeresearch.com/posts/MSUthemes/Python_BigTen-tuition-comparison.png" class="rounded-project shadowed img-fluid figure-img"></p>
 <figcaption>Big Ten Tuition Comparison</figcaption>
 </figure>
 </div>
@@ -87,7 +87,7 @@
 <p>Modern analytics often requires dashboards that combine multiple visualizations. Maintaining theme consistency across panels creates a cohesive analytical narrative:</p>
 <div class="quarto-figure quarto-figure-center" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 <figure class="figure">
-<p><img src="https://exeResearch.com/posts/MSUthemes/Python_dashboard.png" class="rounded-project shadowed img-fluid figure-img"></p>
+<p><img src="https://exeresearch.com/posts/MSUthemes/Python_dashboard.png" class="rounded-project shadowed img-fluid figure-img"></p>
 <figcaption>Python Dashboard Example</figcaption>
 </figure>
 </div>
@@ -115,14 +115,14 @@
   <category>data visualization</category>
   <category>higher education</category>
   <category>analytics leadership</category>
-  <guid>https://exeResearch.com/posts/MSUthemes/</guid>
+  <guid>https://exeresearch.com/posts/MSUthemes/</guid>
   <pubDate>Mon, 22 Dec 2025 05:00:00 GMT</pubDate>
-  <media:content url="https://exeResearch.com/posts/MSUthemes/Python_dashboard.png" medium="image" type="image/png" height="118" width="144"/>
+  <media:content url="https://exeresearch.com/posts/MSUthemes/Python_dashboard.png" medium="image" type="image/png" height="118" width="144"/>
 </item>
 <item>
   <title>Welcome To The Model Scout!</title>
   <dc:creator>Emilio Xavier Esposito</dc:creator>
-  <link>https://exeResearch.com/posts/welcome/</link>
+  <link>https://exeresearch.com/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -130,7 +130,7 @@
 
 
 
-<p><img src="https://exeResearch.com/posts/welcome/snowytree.webp" class="float-right rounded-project shadowed img-fluid"></p>
+<p><img src="https://exeresearch.com/posts/welcome/snowytree.webp" class="float-right rounded-project shadowed img-fluid"></p>
 <p>Welcome to the intersection of predictive analytics, culture and leadership, and sports and higher education. I’ve spent 25 years building analytics systems and teams across academia, corporate environments, and consulting: from enrollment prediction models at MSU to performance validation for sports organizations.</p>
 <p>Join me for regular explorations into the evaluation and implementation of the technical and practical application of predictive analytics and leadership insights for data-driven organizations. We know the best insights are the ones that actually get implemented, but what we learn from those that don’t are the most important lessons.</p>
 <p>That’s what this blog is about: sharing both successes and valuable failures from the field.</p>
@@ -142,9 +142,9 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://exeResearch.com/posts/welcome/</guid>
+  <guid>https://exeresearch.com/posts/welcome/</guid>
   <pubDate>Tue, 11 Nov 2025 05:00:00 GMT</pubDate>
-  <media:content url="https://exeResearch.com/posts/welcome/snowytree_short.webp" medium="image" type="image/webp"/>
+  <media:content url="https://exeresearch.com/posts/welcome/snowytree_short.webp" medium="image" type="image/webp"/>
 </item>
 </channel>
 </rss>

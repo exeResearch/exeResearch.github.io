@@ -10,7 +10,33 @@
 <atom:link href="https://exeresearch.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Mon, 22 Dec 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Building a Love Letter</title>
+  <dc:creator>Emilio Xavier Esposito</dc:creator>
+  <link>https://exeresearch.com/posts/MSUsportsAnalyticsWebsite/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p><img src="https://exeresearch.com/posts/MSUsportsAnalyticsWebsite/MSU_SpartanStadium.webp" class="float-right rounded-project shadowed img-fluid"></p>
+<p>Earlier this spring, I quietly launched <a href="http://msusportsanalytics.com">MSUsportsAnalytics.com</a>, a website for the <a href="https://online.msu.edu/programs/sports-analytics-cert">Graduate Certificate in Sports Analytics program</a> at <a href="https://msu.edu/">Michigan State University</a>.</p>
+<p>It’s an honest representation of what we’ve built: a small, rigorous, practitioner-focused program that produces people who go work for NHL teams and get faculty positions at Big 12 schools.</p>
+<p>The site started as a practical need. The program deserved a home that reflected its quality. So I built one that highlights the people and what they do, to make the program feel like it actually exists in the world.</p>
+<p>When I showed it to my colleague, and Program Director, Albert Cohen, he called it “a love letter to the program.” I liked that. It’s accurate. It made the work and me feel valued. I also believe it shows alumni that we value them as colleagues and are proud of what they’ve accomplished.</p>
+<p>If you’re looking to build the credential, this is where I’d start: <a href="http://MSUSportsAnalytics.com">MSUSportsAnalytics.com</a>.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://exeresearch.com/posts/MSUsportsAnalyticsWebsite/</guid>
+  <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://exeresearch.com/posts/MSUsportsAnalyticsWebsite/MSU_SpartanStadium_short.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>MSUthemes: Building Consistent Analytics Through Thoughtful Tooling</title>
   <dc:creator>Emilio Xavier Esposito</dc:creator>

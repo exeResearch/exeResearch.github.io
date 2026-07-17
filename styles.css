@@ -11,7 +11,7 @@
 
 /* Hero Section with Background Image */
 .hero-section {
-  min-height: 60vh; /* 30% of viewport height - adjust as needed */
+  min-height: 60dvh; /* 30% of viewport height - adjust as needed dvh for dynamic instead of vh */
   display: flex;
   align-items: center;
   justify-content: center;
